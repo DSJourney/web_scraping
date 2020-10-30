@@ -1,0 +1,8 @@
+.DS_Store
+.python-version
+Icon*
+.ipynb_checkpoints
+*.gdoc
+find . -size +50MB
+chromedriver
+__pycache__
